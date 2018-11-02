@@ -16,7 +16,7 @@ RTM_READ_DELAY = 1 # 1 second delay between reading from RTM
 GREETINGS = ['hola', 'hello', 'hi', 'Hi', 'hey!','hey']
 GREETING_RESPONSES = ["'sup bro", "hey", "hello my friend","all good"]
 QUESTIONS = ['How are you?','How are you doing?']
-QUESTIONS_RESPONSES = ["I'm fine what about you","I'm fine","Great"]
+QUESTIONS_RESPONSES = ["I'm fine what about you","I'm fine","Great","Awesome"]
 MENTION_REGEX = "^<@(|[WU].+?)>(.*)"
 
 def parse_bot_commands(slack_events):
