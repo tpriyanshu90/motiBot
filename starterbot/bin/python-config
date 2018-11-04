@@ -1,4 +1,4 @@
-#!/home/tpriyanshu/Desktop/pythonBot/motiBot/starterbot/bin/python
+#!/home/tpriyanshu/Documents/pythonBot/motiBot/starterbot/bin/python
 
 import sys
 import getopt

@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/tpriyanshu/Desktop/pythonBot/motiBot/starterbot"
+VIRTUAL_ENV="/home/tpriyanshu/Documents/pythonBot/motiBot/starterbot"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
